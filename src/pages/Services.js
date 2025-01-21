@@ -8,7 +8,7 @@ export default function Services() {
                 <div className="text-center p-10 max-w-7xl">
                     <h2 className="text-3xl font-bold text-center">1 on 1 Tutoring</h2>
                     <p className="mt-4 text-lg text-center">
-                        VA Tutors offers a wide range of K-12 courses for free 1 on 1 tutoring. We accept all skill levels and differences.\
+                        VA Tutors offers a wide range of K-12 courses for free 1 on 1 tutoring. We accept all skill levels and differences.
                         Classes are online by default. If you wish to have in-person tutoring, contact us and we will try to accommodate your request.
                     </p>
                     <h3 className="mt-8 text-2xl font-bold text-center">Courses</h3>
